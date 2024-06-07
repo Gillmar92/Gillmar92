@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/Gillmar92">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gillmar92&layout=compact&langs_count=7&theme=dracula" alt="Top Langs">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gillmar92&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gillmar92&layout=compact&langs_count=7&theme=graywhite" alt="Top Langs">
+    <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gillmar92&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
   </a>
 </div>
   
