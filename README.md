@@ -9,12 +9,13 @@
   </a>
 </div>
 
-<div>
+<br>
+
 - 🔭 Sou especialista em Ciência de Dados e atualmente busco colocação no mercado
 - 📃 Participante no artigo ["An Exploratory Analysis on Gender-Related Dropout Students in Distance Learning Higher Education using Machine Learning"](https://dl.acm.org/doi/10.1145/3658271.3658323)
 - ⚡ Trabalho principalmente com Python
 - 💬 Também sou graduado em Engenharia Elétrica
-</div>  
+  
   
 ### Sobre mim 💡
 
