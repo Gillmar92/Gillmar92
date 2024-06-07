@@ -3,12 +3,13 @@
 [![Gilmar Oliveira](https://img.shields.io/badge/Gilmar%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmar-oliveira/)
 
 
-<div style="width: 100%;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/Gillmar92">
-    <img loading="lazy" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gillmar92&layout=compact&langs_count=7&theme=graywhite" alt="Top Langs">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gillmar92&layout=compact&langs_count=7&theme=graywhite" alt="Top Langs">
     <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gillmar92&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
   </a>
 </div>
+
 
   
 - 🔭 Sou especialista em Ciência de Dados e atualmente busco colocação no mercado
